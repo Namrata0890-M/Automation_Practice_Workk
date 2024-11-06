@@ -4,7 +4,7 @@ Selenium_Practice/java_Practice
 # Selenium Automation Practice Project
 
 ## Project Overview
-This project demonstrates automated testing using Selenium WebDriver and Java. It includes code to open `google.com`, perform interactions, and test web elements.
+This project demonstrates automated testing using Selenium WebDriver and Java. It includes code to open `amazon.co.in`, perform interactions, and test web elements.
 
 ## Technologies
 - **Java**
